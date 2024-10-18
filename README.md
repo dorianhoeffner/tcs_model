@@ -1,1 +1,1 @@
-# SorptionStorageModel
+This is the repository for TCS equilibrium modeling.
